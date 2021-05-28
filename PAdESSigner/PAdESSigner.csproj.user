@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>-signType "single" -inputFile "T10/Input/Input.pdf" -outputFile "T10/Output/Output.pdf" -pkcs12FilePath "T10/Cert/TDID_Chanapai_Test_Certificate.p12" -pkcs12Password "P%40ssw0rd#1234" -timeStampType "TSA" -tsaURL "http://rfc3161timestamp.globalsign.com/advanced" -tsaAuthenticationType "NO_AUTHENTICATION" -Location "Bangkok" -Reason "To sign with PKCS12" -X 100 -Y 100 -Width 200 -Height 200 -SignatureFieldName "Test_SIG" -PageNumber 1 -SignatureVisibility "VISIBLE" -SignaturePattern "DESCRIPTION" -digestAlgorithm "SHA256" -crlPath "T10/Cert/CA.crl" -SignatureLevel "APPROVAL"</StartArguments>
+  </PropertyGroup>
+</Project>
