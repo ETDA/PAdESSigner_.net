@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2025_ADTE_eTax-Invoice-By-eMail\\Tools\\03_PAdESSigner\\.NET\\Source_Code\\PAdESSigner_.net-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PAdESSigner||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84988E8-6095-43FF-984B-3E9D206FD929}|PAdESSigner\\PAdESSigner.csproj|d:\\2025_adte_etax-invoice-by-email\\tools\\03_padessigner\\.net\\source_code\\padessigner_.net-master\\padessigner\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PAdESSigner",
+              "DocumentMoniker": "D:\\2025_ADTE_eTax-Invoice-By-eMail\\Tools\\03_PAdESSigner\\.NET\\Source_Code\\PAdESSigner_.net-master\\PAdESSigner\\PAdESSigner.csproj",
+              "RelativeDocumentMoniker": "PAdESSigner\\PAdESSigner.csproj",
+              "ToolTip": "D:\\2025_ADTE_eTax-Invoice-By-eMail\\Tools\\03_PAdESSigner\\.NET\\Source_Code\\PAdESSigner_.net-master\\PAdESSigner\\PAdESSigner.csproj",
+              "RelativeToolTip": "PAdESSigner\\PAdESSigner.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-09T14:30:18.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
